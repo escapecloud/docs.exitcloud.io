@@ -1,0 +1,9 @@
+[book]
+title = "exitcloud.io - User Guide"
+description = "Documentation for exitcloud.io – Lightweight Cloud Exit Readiness for MSPs and SMEs."
+authors = ["Bence Hezso"]
+language = "en"
+
+[output.html]
+theme = "theme"
+additional-css = ["theme/custom.css"]
