@@ -1,11 +1,12 @@
-# Welcome
+# exitcloud.io (EscapeCloud Light)
 
-exitcloud.io is a lightweight cloud exit readiness platform that helps individuals, SMEs, and MSPs assess their cloud exit risks.
+Welcome to the documentation for exitcloud.io - the **Lightweight Cloud Exit Readiness Platform** for MSPs and SMEs.
 
-This documentation explains what exitcloud.io is, who it’s for, and how your data is handled.
+These documentation pages explain:
+- what **cloud exit readiness** means,
+- why it matters for organizations relying on cloud services, and
+- how **exitcloud.io** helps assess and manage cloud exit risks in a **structured, repeatable** way.
 
-## Overview
-- [What is exitcloud.io?](overview/what-is-exitcloud.md)
-- [Who it’s for?](overview/who-its-for.md)
-- [Data & Privacy](overview/data-privacy.md)
-- [Security](overview/security.md)
+exitcloud.io focuses on **visibility, risk awareness, and informed decision-making**, without requiring intrusive access to cloud environments.
+
+If you are looking for documentation about the open-source CLI tool, see the [cloudexit](https://github.com/escapecloud/cloudexit/) documentation instead.

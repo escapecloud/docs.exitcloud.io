@@ -1,1 +1,1 @@
-# docs.exitcloud.io
+# cloudexit-docs
