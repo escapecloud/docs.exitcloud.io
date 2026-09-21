@@ -9,7 +9,7 @@ These sample reports are automatically available once your account is created.
 Sample reports are designed to:
 
 - demonstrate the **structure and depth** of exitcloud.io reports
-- explain the difference between **Basic** and **Standard** assessment packages
+- explain the difference between **Basic**, **Standard**, and **Premium** assessment packages
 - showcase how exit strategies affect findings and recommendations
 - help you understand what a real cloud exit readiness assessment delivers
 
@@ -47,5 +47,25 @@ This sample demonstrates a **Standard assessment**, including:
 - Alternative Technologies analysis
 - Exit Readiness Score
 - Vendor Lock-In Score
+
+It shows how scoring, benchmarking, and deeper analysis are applied in a connected assessment.
+
+## Premium
+
+- Cloud provider: **Amazon Web Services**
+- Assessment type: **Premium**
+- Exit strategy: **Repatriation to On-Premises**
+- Execution mode: **One-time**
+
+This sample demonstrates a **Premium assessment**, including:
+
+- Resource Inventory
+- Cost Overview
+- Risk Inventory
+- Alternative Technologies analysis
+- Exit Readiness Score
+- Vendor Lock-In Score
+- Estimated Egress Fees
+- Estimated Data Landscape
 
 It shows how scoring, benchmarking, and deeper analysis are applied in a connected assessment.

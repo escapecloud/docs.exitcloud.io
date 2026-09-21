@@ -66,6 +66,11 @@ Choose the assessment package that defines the scope and outputs:
 - Exit Readiness Score
 - Detailed Report
 
+**Premium**
+- Everything in Standard
+- Estimated Egress Fees
+- Estimated Data Landscape
+
 > Package selection determines **credit usage** and available reports.
 
 ## Step 4: Run assessment

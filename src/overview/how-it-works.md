@@ -24,7 +24,7 @@ When creating an assessment, you define:
 - assessment name and optional description
 - target cloud provider
 - exit strategy
-- assessment type (Basic or Standard)
+- assessment type (Basic, Standard, or Premium)
 - execution mode (one-time or continuous)
 
 This ensures that each assessment is clearly scoped and repeatable.
@@ -59,7 +59,8 @@ Depending on the assessment type, exitcloud.io generates:
 - cost overviews and trends
 - identified exit risks and constraints
 - alternative technology mappings
-- exit readiness and vendor lock-in scores (Standard assessments)
+- exit readiness and vendor lock-in scores (Standard & Premium)
+- egress & data landscape estimations
 
 Results can be viewed online and, where applicable, downloaded as PDF reports.
 

@@ -2,11 +2,11 @@
 
 exitcloud.io uses a **credit-based model** for running cloud exit readiness assessments.
 
-Credits are consumed **when an assessment is executed**. The number of credits required depends on the selected **assessment type** (Basic or Standard).
+Credits are consumed **when an assessment is executed**. The number of credits required depends on the selected **assessment type** (Basic, Standard, or Premium).
 
 ## How it works
 
-- Every account starts with **20 free credits** to explore the platform
+- Every account starts with **100 free credits** to explore the platform
 - Credits are deducted **per assessment run**
 - Continuous assessments consume credits on each execution (daily, weekly, monthly)
 - Credits are **scoped to your account and selected data region**

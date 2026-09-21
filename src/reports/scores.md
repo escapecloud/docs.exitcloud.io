@@ -2,7 +2,7 @@
 
 Scorings provide a quantitative view of cloud exit readiness.
 
-They are available only from **Standard** package.
+They are available from **Standard** and **Premium** packages.
 
 **What is scored**
 

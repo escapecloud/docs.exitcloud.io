@@ -67,7 +67,7 @@ exitcloud.io never stores long-term credentials in plaintext.
 
 ---
 
-## What is the difference between Basic and Standard assessments?
+## What is the difference between Basic, Standard, and Premium assessments?
 
 **Basic** includes:
 - Resource Inventory
@@ -79,6 +79,10 @@ exitcloud.io never stores long-term credentials in plaintext.
 - Exit Readiness Scoring
 - Detailed Exit Readiness Report
 - Benchmarking and trend analysis (for continuous assessments)
+
+**Premium** includes everything in Standard, plus:
+- Estimated Egress Fees
+- Estimated Data Landscape
 
 ---
 
@@ -101,8 +105,9 @@ This allows you to:
 Yes.
 
 Depending on the assessment package, you can download:
-- **Executive Summary** (Basic & Standard)
-- **Exit Readiness Report** (Standard only)
+- **Executive Summary** (Basic, Standard & Premium)
+- **Exit Readiness Report** (Standard & Premium)
+- **Egress & Data Landscape Report** (Premium only)
 
 Reports are available as PDF files via the **Download** button on the Assessment Details page.
 

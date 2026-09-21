@@ -42,11 +42,11 @@ The Standard assessment is ideal for:
 
 **Price: 20 credits**
 
-## Premium (soon)
+## Premium
 
-The **Premium assessment** will provide advanced financial and landscape analysis.
+The **Premium assessment** provides advanced financial and landscape analysis.
 
-Planned capabilities include:
+It includes everything from the Standard assessment, plus:
 - **Estimated Egress Fees**  
   Analysis of potential data egress costs in an exit scenario.
 - **Estimated Data Landscape**  
